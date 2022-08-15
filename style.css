@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: lightblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#strip {
+    width: 378px;
+    height: 84px;
+}
+
+.top {
+    background-color: #FF9933;
+}
+.middle {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom {
+    background-color: green;
+}
+
+#chakra {
+    height: 70px;
+    width: 70px;   
+}
+
